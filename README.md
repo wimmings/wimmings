@@ -30,6 +30,7 @@ Here are some ideas to get you started: -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: ohsusu515@gmail.com
+- ✏️ Blog: https://wimmings.github.io
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
