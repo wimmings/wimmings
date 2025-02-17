@@ -33,7 +33,7 @@ Here are some ideas to get you started: -->
 - ✏️ Suyoung's Note: https://wimmings.github.io
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/osy515" width="600" height="300"/></a>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wimmings&layout=compact"><br><br> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=wimmings&show_icons=true"> -->
